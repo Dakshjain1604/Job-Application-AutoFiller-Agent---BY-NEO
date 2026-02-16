@@ -12,8 +12,7 @@
 
 ---
 
-> **🤖 This entire project was autonomously built by Neo, an AI/ML agent, through 30 iterative development cycles.** Neo independently designed the architecture, wrote 3,500+ lines of code across 16 modules, debugged 23 integration issues, and delivered all 8 core features without human coding intervention. [Read Neo's full development story](#-built-by-neo---autonomous-ai-agent).
-
+> **🤖 This entire project was autonomously built by Neo, an AI/ML agent, through 30 iterative development cycles.** Neo independently designed the architecture, wrote 3,500+ lines of code across 16 modules, debugged 23 integration issues, and delivered all 8 core features without human coding intervention.
 ---
 
 ## 🎯 Overview
