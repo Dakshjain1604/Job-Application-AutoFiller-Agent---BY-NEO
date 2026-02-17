@@ -8,7 +8,7 @@
 [![FastAPI](https://img.shields.io/badge/fastapi-0.109+-009688.svg)](https://fastapi.tiangolo.com/)
 [![Built by Neo](https://img.shields.io/badge/Built%20by-Neo%20AI%20Agent-blueviolet.svg)](https://github.com/Dakshjain1604)
 
-> This project was built by **[Neo](https://heyneo.so/)**, an autonomous AI/ML agent, through 30 iterative development cycles — covering architecture, implementation, debugging, and documentation without human coding intervention.
+> This project was built by **[NEO](https://heyneo.so/)**, an autonomous AI/ML agent, through 30 iterative development cycles — covering architecture, implementation, debugging, and documentation without human coding intervention.
 
 ---
 
@@ -128,4 +128,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-*Built by **[Neo](https://heyneo.so/)** — an autonomous AI agent. More of Neo's work: [Medical Report Analysis Pipeline](https://github.com/dakshjain-1616/Medical-Report-Analysis-Pipeline-by-Neo).*
+*Built by **[NEO](https://heyneo.so/)** — an autonomous AI agent. More of Neo's work: [Medical Report Analysis Pipeline](https://github.com/dakshjain-1616/Medical-Report-Analysis-Pipeline-by-Neo).*
